@@ -28,6 +28,12 @@ test in assembly := {}
 
 // mainClass in assembly := Some("ru.rknrl.rpc.MainJs")
 
+// ts
+
+// assemblyJarName in assembly := "protobuf-rpc-ts.jar"
+
+// mainClass in assembly := Some("ru.rknrl.rpc.MainTs")
+
 // scala
 
 assemblyJarName in assembly := "protobuf-rpc-scala.jar"
